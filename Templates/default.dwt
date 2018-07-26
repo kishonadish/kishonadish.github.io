@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-image: url();
+	background-repeat: no-repeat;
+	background-color: #FFF;
+}
+.Footer {
+	color: #FFF;
+}
+</style>
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="data" -->data<!-- TemplateEndEditable -->
+<p>&nbsp;</p>
+<table width="80%" border="0" align="center">
+  <tr bgcolor="#000000" class="Footer">
+    <td width="34%"><strong>Email: ranuraband@gmail.com</strong></td>
+    <td width="71%" align="center"><strong>Tel: 07907 948754</strong></td>
+    <td width="34%" align="right" valign="middle"><strong>Facebook:
+    @ranuracovers</strong></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
